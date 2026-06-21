@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/PPRIS062/seg2505-jeu-de-memoire/",
+  "homepage": "https://PPRIS062.github.io/seg2505-jeu-de-memoire/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
